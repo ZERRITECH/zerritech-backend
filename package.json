@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "zerritech-backend",
   "version": "1.0.0",
   "description": "",
@@ -16,5 +17,11 @@
     "express": "^5.1.0",
     "mongodb": "^6.15.0",
     "mongoose": "^8.13.2"
+=======
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.5",
+    "tronweb": "^6.0.2"
+>>>>>>> 7f53ed3 (fix: add dotenv to dependencies)
   }
 }
